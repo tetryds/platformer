@@ -42,3 +42,5 @@ There are E2E playmode tests and a few edit mode tests.
 The edit mode tests are mostly for the core state machine implementation, which is derived from my own state machine tool https://github.com/tetryds/unity-tools/tree/master/tetryds.Tools/Lib/StateMachine
 
 All tests can be executed from the Test Runner view.
+
+![Test result](Docs/TestResult.png)
